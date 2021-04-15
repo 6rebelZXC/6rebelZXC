@@ -1,16 +1,19 @@
-### Hi there 👋
+# SolisOrtus
+## Coder
+### Level Junior+ have 1 year expierence
+#### Working with:
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Sublime Text](https://img.shields.io/badge/-Sublime-8c4d04?style=flat-square&logo=sublime-text)
+![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
-<!--
-**xsolisortusx/xsolisortusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- Have 5 bot projects
+- Have some experience in LUA (Created 4 servers in Garry's mod) 
+- Have some expierence in creating bots in Discord.JS [repo of the Node.Js]
+
+> If you try hard, it will work out, believe me.
+
