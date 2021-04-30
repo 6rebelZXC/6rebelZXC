@@ -7,7 +7,7 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime-8c4d04?style=flat-square&logo=sublime-text)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-FA8072?logo=html5)
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xsolisortusx&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
