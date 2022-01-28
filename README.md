@@ -1,6 +1,6 @@
 # SolisOrtus
   ## Back-End Developer <3
-### Level Junior+ have 1 year expierence
+### Level Middle+ have 1 year expierence
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xsolisortusx&count_private=true&theme=tokyonight&showicons=true)]()
 #### Working with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
