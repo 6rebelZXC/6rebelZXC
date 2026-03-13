@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Developing Discord.js Bots**
 
-- 🌱 I’m currently learning **HTML & CSS & JS + MySQL**
+- 🌱 I’m currently learning **HTML & CSS & JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
