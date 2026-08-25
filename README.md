@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **junior cybersecurity learner** building my foundations in security while continuing to develop my backend skills with **Node.js**.
+I'm a **junior cybersecurity learner** building my foundations in security.
 
 My current focus is learning the fundamentals of cybersecurity, understanding basic security measures, and gaining practical experience through **TryHackMe** and **Hack The Box**.
 
