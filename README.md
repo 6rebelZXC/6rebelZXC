@@ -54,9 +54,6 @@ Long term, I'm aiming for a career as a **Blue Team Analyst / Security Engineer*
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://cdn.simpleicons.org/html5" height="42" alt="HTML5" title="HTML5">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.simpleicons.org/css3" height="42" alt="CSS3" title="CSS3">
-</a>
 <a href="https://nodejs.org/">
   <img src="https://cdn.simpleicons.org/nodedotjs" height="42" alt="Node.js" title="Node.js">
 </a>
